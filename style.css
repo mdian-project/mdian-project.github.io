@@ -1,0 +1,27 @@
+#home {
+  padding-top: 9rem;
+  color: #08376b;
+}
+
+#about {
+  margin-top: 11rem;
+  padding-top: 7rem;
+  color: #08376b;
+}
+
+#services {
+  margin-top: 13rem;
+  padding-top: 7rem;
+  color: #08376b;
+}
+
+#contact {
+  margin-top: 8rem;
+  padding-top: 6rem;
+  color: #08376b;
+}
+
+footer {
+  margin-top: 3rem;
+  background-color: #08376b;
+}
